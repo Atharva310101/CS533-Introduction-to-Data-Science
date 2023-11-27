@@ -9,7 +9,7 @@ The term "Artificial Neural Network" is derived from Biological neural networks 
 
 The nodes in ANN are organized in a series of layers that make up entire Artificial Neural Network system. A layer can include any number of neurons, depending on the complexity of the neural network. More complexity leads to better understanding of the hidden patterns in the dataset. The artificial neural network takes input and computes the weighted sum of the inputs and includes a bias. This computation is represented in the form of a transfer function or activation function. It determines weighted total is passed as an input to an activation function to produce the output. Activation functions choose whether a node should fire or not. 
 
-![Architecture of Neural Network](./Neural-Networks-Architecture.png)
+![Architecture of Neural Network](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230602113310/Neural-Networks-Architecture.png)
 
 An Artificial Neural Network typically contains an input layer, hidden layers and an output layer. The input layer gets information from the dataset is then processed through one or more hidden layers. The output layer gives an output in the form of an Artificial Neural Network reesponse to the input data provided. The majority of neural networks connect nodes from one layer to the next. Each of these links has weights that define how much influence one node has on another. As data is sent from one node to another, the neural network learns more about the data, resulting in an output from the output layer. 
 
