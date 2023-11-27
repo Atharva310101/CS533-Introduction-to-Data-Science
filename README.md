@@ -1,5 +1,5 @@
 # Understanding Convolutional Neural Networks using CIFAR-10 Dataset
-(x words, y reading time)
+(2051 words, 9 minutes reading time)
 
 #### Author: Atharva Pargaonkar
 
