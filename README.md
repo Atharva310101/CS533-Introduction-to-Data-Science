@@ -26,7 +26,7 @@ A convolutional neural network (CNN/ConvNet) is a type of deep neural network in
 
 Convolutional Neural Network consists of different layers in a seqeuntial manner. These main layers in a CNN are the input layer, Convolutional layer, Pooling layer, and fully connected layers. Each layer is responsible for building on the features detected in the previous layers—from lines, to contours, to shapes, to entire objects. Let's take a look about each layer in detail:
 
-![Architecture of Convolutional Neural Network](./CNN%20Architecture.png)
+![Architecture of Convolutional Neural Network](https://miro.medium.com/v2/resize:fit:828/format:webp/1*7_BCJFzekmPXmJQVRdDgwg.png)
 
 #### 1. Input Layer
 
@@ -69,7 +69,7 @@ The CIFAR-10 dataset is used for a variety of tasks, including:
 
 The CIFAR-10 dataset is available for free from the Canadian Institute for Advanced Research (CIFAR).
 
-![CIFAR - 10 Dataset](./Cifar10.jpg)
+![CIFAR - 10 Dataset](https://production-media.paperswithcode.com/datasets/4fdf2b82-2bc3-4f97-ba51-400322b228b1.png)
 
 The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images. The dataset is divided into five training batches and one test batch, each with 10000 images. 
 The test batch contains exactly 1000 randomly-selected images from each class. The training batches contain the remaining images in random order, but some training batches may contain more images from one class than another. Between them, the training batches contain exactly 5000 images from each class.
